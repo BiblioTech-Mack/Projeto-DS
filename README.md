@@ -19,16 +19,13 @@ Dentre as possíveis problemáticas, cabe afirmar que a falta de tempo para desl
 ## Proposta
 A Bibliotech é um aplicativo que visa tornar a leitura mais acessível para a população de São Paulo, conectando os leitores às bibliotecas mais próximas e tornando um processo simplificado para a renovação e empréstimos de livros.
 
-### Características
-As características do nosso projeto são:
-
-#### Encontre a sua biblioteca
+### Encontre a sua biblioteca
 Os leitores terão a ferramenta de achar a biblioteca mais próxima da sua localização, possibilitando o acesso simples a uma enorme gama de livros.
 
-#### Catálogo digital de livros
+### Catálogo digital de livros
 Os usuários podem explorar vários livros disponíveis nas bibliotecas cadastradas no aplicativo.
 
-#### Renovação e reserva online
+### Renovação e reserva online
 Proporcionamos a facilidade de renovar empréstimos e fazer reservas diretamente pelo aplicativo.
 
 ## Canva
